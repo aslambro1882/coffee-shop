@@ -1,0 +1,34 @@
+/* Font Imports  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+header{
+    width: 100%;
+    height: 666px;
+    background-image: url(../images/top-bg.png);
+    
+    /* background-color: aqua; */
+    background-size: cover;
+  
+}
+header li{
+    font-size: 14px;
+    list-style: none;
+}
+.top-container{
+    
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    top: 210px;
+    left: 310px;
+}
+.top-container h1{
+    font-size: 60px;
+}
+.bg-second{
+    width: 100%;
+    height: 900px;
+    background-image: url(../images/xmenu-bg.jpg.pagespeed.ic.xYr9qBvnG1.jpg);
+    background-size: cover;
+}
