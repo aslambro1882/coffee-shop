@@ -32,3 +32,9 @@ header li{
     background-image: url(../images/xmenu-bg.jpg.pagespeed.ic.xYr9qBvnG1.jpg);
     background-size: cover;
 }
+.bg-third{
+    background-color: #b68834;
+}
+.star-orange{
+    color: rgb(255, 165, 0);
+}
