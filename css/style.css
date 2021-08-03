@@ -11,6 +11,10 @@ header{
     background-size: cover;
   
 }
+.bg-nav{
+    background-color: rgba(20, 2, 0, 0.8);
+    height: 80px;
+}
 header li{
     font-size: 14px;
     list-style: none;
@@ -37,4 +41,22 @@ header li{
 }
 .star-orange{
     color: rgb(255, 165, 0);
+}
+.js h1{
+    font-size: 65px;
+}
+footer{
+    width: 100%;
+    height: 526px;
+    background-image: url(../images/footer-bg.jpg.webp);
+    
+    /* background-color: aqua; */
+    background-size: cover;
+  
+}
+footer .container{
+    padding-top: 200px;
+}
+footer span{
+    color: #b68834;
 }
